@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan-Acceptance-Prediction
 
 ## 📌 Project Overview & Task Objective
@@ -165,3 +166,6 @@ For questions or collaboration:
 
 GitHub: `AhsanNFt`
 Email: `syedahsan0991@gmail.com`
+=======
+# Loan-Acceptance-Prediction
+>>>>>>> a85e5a2a0d7726fadca957562d24152f8fae641f
