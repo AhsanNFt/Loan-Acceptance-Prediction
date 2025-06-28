@@ -71,7 +71,8 @@ My approach to Loan Acceptance Prediction involved the following steps:
 
 - 📋 **Categorical Features**: Bar plots for job, marital status, education
   - **Job and Loan Acceptance**
-        ![image](https://github.com/user-attachments/assets/c17b68a2-5c36-451e-8049-bb21e90158c8)
+    ![image](https://github.com/user-attachments/assets/69fee8e0-3ca9-4d81-9cb6-b4fb6c2588ba)
+
 
         **Insight**:
         The Above Graph Shows:
@@ -81,7 +82,8 @@ My approach to Loan Acceptance Prediction involved the following steps:
         - `Retired, housemaids, and blue-collar` workers have low acceptance.
     
     - **Marital Status vs Loan Acceptance**
-        ![image](https://github.com/user-attachments/assets/57474a33-3ec9-4f11-b6b4-ae75d1bdb6a3)
+      ![image](https://github.com/user-attachments/assets/3f73bc53-da8e-458b-b234-3b11fb33d97f)
+
 
         **Insight**:
         The Above Graph Shows:
@@ -90,7 +92,8 @@ My approach to Loan Acceptance Prediction involved the following steps:
         - Single people show a relatively higher acceptance rate than married or divorced.
 
     - **Education vs Loan Acceptance**
-        ![image](https://github.com/user-attachments/assets/5fb949d8-c108-48ea-9a8b-2b8bcd5e809e)
+      ![image](https://github.com/user-attachments/assets/8a54e9d3-74bf-472b-be0e-43a1f27afa40)
+
       
         **Insight**:
         The Above Graph Shows:
@@ -102,7 +105,8 @@ My approach to Loan Acceptance Prediction involved the following steps:
   
 - 📈 **Numerical Features**: Histograms/density plots for age, balance, duration
   - **Age and Loan Acceptance**
-        ![image](https://github.com/user-attachments/assets/04bd1594-0b39-427b-a2a1-32d40cf5a2cf)
+    ![image](https://github.com/user-attachments/assets/b22fb091-a04f-44e0-b636-2d9df8023ef1)
+
 
         **Insight**:
         The Above Graph Shows
@@ -113,10 +117,10 @@ My approach to Loan Acceptance Prediction involved the following steps:
   
 - 🔁 **Confusion Matrix**: Performance visualization of each model
   - **Logistic Regression**
-        ![image](https://github.com/user-attachments/assets/ec760434-35fd-4958-a291-aeb188a6213d)
-    
+    ![image](https://github.com/user-attachments/assets/da15795d-7889-4f73-9356-3245c8b73553)
+
   - **Decision Tree**
-        ![image](https://github.com/user-attachments/assets/39512a2b-f9a0-4adb-af7e-de9adddcd86f)
+    ![image](https://github.com/user-attachments/assets/a1279989-4dae-48a7-a1dd-c1059155c574)
     
         **Insight**:
         - Logistic Regression Accuracy: 89.39 %
